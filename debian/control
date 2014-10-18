@@ -1,0 +1,23 @@
+Source: fonts-orbitron
+Section: fonts
+Priority: optional
+Maintainer: Roland Hieber <rohieb@rohieb.name>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://www.theleagueofmoveabletype.com/orbitron
+Vcs-Git: git://github.com/rohieb/fonts-orbitron.git
+Vcs-Browser: http://github.com/rohieb/fonts-orbitron
+
+Package: fonts-orbitron
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: geometric sans-serif typeface intended for display purposes
+ Orbitron was designed as an alternative to futuristic looking typefaces
+ like Eurostile or Bank Gothic. For example, it can be used on spaceship
+ exteriors, space station signage, monopolistic corporate branding,
+ uniforms featuring aerodynamic shoulder pads, etc.
+ .
+ This fontface is available in four weights (light, medium, bold, and
+ black), and features a stylistic alternative (small caps) as well as a
+ ton of alternate glyphs.
