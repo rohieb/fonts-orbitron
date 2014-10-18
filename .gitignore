@@ -1,2 +1,6 @@
 .DS_Store
-references/*
+references/*debian/files
+debian/files
+debian/*.debhelper.log
+debian/*.substvars
+debian/fonts-orbitron/
